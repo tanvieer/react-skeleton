@@ -1,0 +1,29 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvieer/react-skeleton.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Tanvir Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvieer/react-skeleton/issues"
+  },
+  "homepage": "https://github.com/tanvieer/react-skeleton#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^8.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "watchify": "^3.11.0"
+  }
+}
